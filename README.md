@@ -3,7 +3,7 @@
 
 **Mob No**: 0434773768  
 **Email**: dsmita22@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/smita-dutta-764a80131/) **|**
+[LinkedIn](www.linkedin.com/in/smitadutta) **|**
 [GitHub](https://github.com/dsmita22)  
 
 Seeking a position as Test Automation Engineer in the competitive information technology industry, to utilize my skills and abilities that offer professional growth while being resourceful, innovative and flexible.
