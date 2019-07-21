@@ -10,10 +10,18 @@ Seeking a position as Test Automation Engineer in the competitive information te
  
 ### **Experience**
 
+**Test Automation Engineer Intern**  
+**Company Name**: Gada Technology Pty Ltd  
+**Dates Employed**: July 2019 – Present  
+**Location**: Melbourne, Australia  
+- Experienced in automating single page app by developing javascript based testing framework using puppeteer with jest as a test runner.
+  Running the test in docker container
+- Experience in performing API testing using postman and creating framework using java rest-assured and mocha javascript basted test framework to test in a micro-service based architecture.
+
 **QA Engineer**  
 **Company Name**: 3Embed Software Technologies Pvt Ltd  
 **Dates Employed**: March 2017 – Sep 2018  
-**Location**: Melbourne, Australia  
+**Location**: Bangaluru, India  
 - Hands-on experience in creating robust test framework to test ui using java selenium with build tool Gradle and integrated with Jenkins to test end to end web application and execute overnight.
 - Experienced in automating single page app by developing javascript based testing framework using Cypressjs and puppeteer with jest as a test runner.
 - Experience in performing API testing using postman and creating framework using java rest-assured and mocha javascript basted test framework to test in a micro-service based architecture.
