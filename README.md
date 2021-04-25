@@ -36,7 +36,7 @@ Seeking a position as Test Automation Engineer in the competitive information te
 - Experience in performing API testing using postman and creating framework using java rest-assured and mocha javascript basted test framework to test in a micro-service based architecture.
 
 **QA Engineer**  
-**Company Name**: [AppScrip](https://www.appscrip.com/)  
+**Company Name**: [AppScrip formerly named 3Embed Software Technologies Pvt. Ltd](https://www.appscrip.com/)  
 **Dates Employed**: March 2017 – Sep 2018  
 **Location**: Bangaluru, India  
 - Hands-on experience in creating robust test framework to test ui using java selenium with build tool Gradle and integrated with Jenkins to test end to end web application and execute overnight.
