@@ -18,15 +18,15 @@ Seeking a position as Test Automation Engineer in the competitive information te
 **Company Name**: [Nintex Pty Ltd](https://www.nintex.com/)     
 **Dates Employed**: September 2019 – Present  
 **Location**: Melbourne, Australia  
-- Started the role by developing a javascript based webui testing framework using Cypressjs to automate a react based application. 
--  Setup the continuous delivery pipeline to execute the tests in azure devops pipeline on every change made by developer. 
+- Started the role by developing a javascript based webui testing framework from scratch using Cypressjs to automate a react based web application and established automation best practices.
+- Setup the continuous delivery pipeline to execute the Cypress tests in azure devops pipeline on every pull request by developer.  
 - Along with finding the bug, also participated to do small bugfix and developed small features in the react app. 
 - Developed a performance testing framework using blazemeter taurus and setup the pipeline in azure devops to run the performance test in blazemeter cloud. 
-- Experience in performing API testing using postman and creating framework using java rest-assured and mocha javascript basted test framework to test in a micro-service-based architecture. 
+- Experience in performing API testing using postman and creating framework using javascript supertest and jest based test framework to test our micro-service-based architecture. 
 - Contributed to automated test scripts creation using selenium with already developed framework. 
 - Experience in preparation of Test Scripts, User Interface testing with in-depth knowledge of Regression Testing and Adhoc Testing while exhibiting excellence in analyzing test data and preparing software test cases. 
 - Also involved in doing the release task and co-ordinate with multiple teams. 
-- Worked in a team which follows agile methodologies and product delivery in 2 weeks sprit.
+- Worked in a team which follows agile methodologies and product delivery in 2 weeks sprint.
 
 **Test Automation Engineer Intern**  
 **Company Name**: Gada Technology Pty Ltd  
@@ -44,7 +44,7 @@ Seeking a position as Test Automation Engineer in the competitive information te
 - Experience in performing API testing using postman and creating framework using java rest-assured and mocha javascript basted test framework to test in a micro-service based architecture.
 - Contributed in automated test scripts creation using Appium with already developed framework for mobile app testing (Android & IOS).
 - Experience in preparation of Test Scripts, User Interface testing with in-depth knowledge of Regression Testing and Adhoc Testing while exhibiting excellence in analyzing test data and preparing software test cases.
-- Worked in a team which follows agile methodologies and product delivery in 2 weeks sprit.
+- Worked in a team which follows agile methodologies and product delivery in 2 weeks sprint.
 - Worked as a solo tester in a team with responsibility of overall quality of the product.
 - Worked in API testing using postman and then automated using java rest-assured.
 
