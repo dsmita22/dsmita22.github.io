@@ -28,7 +28,7 @@ Seeking a position as Test Automation Engineer in the competitive information te
 - Also involved in doing the release task and co-ordinate with multiple teams. 
 - Worked in a team which follows agile methodologies and product delivery in 2 weeks sprint.
 
-**Test Automation Engineer Intern**  
+**Test Automation Engineer**  
 **Company Name**: Gada Technology Pty Ltd  
 **Dates Employed**: July 2019 – Spetember 2019  
 **Location**: Melbourne, Australia  
